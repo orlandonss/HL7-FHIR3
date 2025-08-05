@@ -4,5 +4,10 @@
         <name>Project03</name>
     </assembly>
     <members>
+        <member name="T:smart_local.FhirUtils">
+            <summary>
+            FHIR Utility functions
+            </summary>
+        </member>
     </members>
 </doc>
