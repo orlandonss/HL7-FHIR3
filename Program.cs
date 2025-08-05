@@ -3,11 +3,18 @@
 namespace smart_local
 
 {
-    class Programm
+public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Programm to access a smart Fhir Server with a local webserver for redirection
+        /// </summary>
+        /// <param name="fhirServerUrl"></param>
+        /// <returns></returns>
+        static int Main( string fhirServerUrl)
         {
-            Console.WriteLine("Hello World!!");
+            Console.Write("Hello World");
+            Console.ReadLine();
+            return 0;
         }
     }
 }

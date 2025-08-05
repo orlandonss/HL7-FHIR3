@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project03</name>
+    </assembly>
+    <members>
+        <member name="M:smart_local.Programm.Main(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="fhirServerUrl"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
